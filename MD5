@@ -1,0 +1,10 @@
+bb8e318b9d647825a97ceb6ec09d245b *DESCRIPTION
+d99ac4b7e76ab5f1742be9af1989df9d *LICENSE.note
+904539618cd35940c65c049a9ddfa978 *NAMESPACE
+d7bc428e9a75dd0a4769fb58956b2234 *R/cluster_cutoff_at_first_empty_bin.R
+4e0af1154195c65859f190080083b5c9 *R/mapper1D.R
+42d598d86000097e1a5b45c3bda6a283 *R/mapper2D.R
+418595485f0dbb80fc2449eff513a37d *README.md
+b4bbc36db8060632d9dfb8806c4a4af6 *man/cluster_cutoff_at_first_empty_bin.Rd
+ba22947c715b12d13ef86c1a6551273c *man/mapper1D.Rd
+88f47c6fa77eb63c5a5a31f86905cd87 *man/mapper2D.Rd
